@@ -5,6 +5,8 @@ import RpMenuHead from './RpMenuHead';
 import RpPhoto from './RpPhoto'
 import RpSubMenu from './RpSubMenu';
 import RpOverview from './RpOverview'
+import RpIngredients from './RpIngredients'
+import RpDirections from './RpDirections'
 
 
 function App() {
@@ -18,6 +20,9 @@ function App() {
         <RpPhoto />
         <RpSubMenu />
         <RpOverview />
+        <RpIngredients />
+        <RpDirections />
+        
       </div>
 
     </div>

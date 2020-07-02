@@ -1,0 +1,37 @@
+
+
+.Rp-directions-list-item-header-cont {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    border: 1px solid blue;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.Rp-directions-list-header-step-number {
+display: flex;
+align-items: center;
+justify-content: center;
+
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 620;
+font-size: 18px;
+}
+
+.Rp-directions-list-header-step-text {
+display:flex;
+align-items: center;
+justify-content: center;
+padding-left: 10px;
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 420;
+font-size: 18px;
+}
+
+.Rp-directions-ingredients-list-cont {
+padding-left: 15px;
+border: 1px solid green;
+}

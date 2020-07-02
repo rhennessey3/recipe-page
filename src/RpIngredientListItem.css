@@ -1,0 +1,42 @@
+.Rp-list-item-cont {
+display: flex;
+flex-direction:row ;
+border-bottom: 0.5px solid #ABABAB;
+margin-left: 30px;
+margin-right: 20px;
+}
+
+
+.Rp-list-item-ingredient-name {
+display: flex;
+justify-content: start;
+align-items: center;
+width:50%;
+}
+
+.Rp-list-item-ingredient-name p {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 390;
+font-size: 16px;
+padding-left: 20px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+
+.Rp-list-item-ingredient-amount {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+width:50%
+}
+
+.Rp-list-item-ingredient-amount p {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 390;
+font-size: 16px;
+padding-right: 20px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
