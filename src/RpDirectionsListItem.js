@@ -23,8 +23,10 @@ export default function RpDirectionsListItem() {
                 <RpDirectionsListItemIngredient />
                 <RpDirectionsListItemIngredient />
                 <RpDirectionsListItemIngredient />
-                
             </div>
+
+            
+          
 
         </div >
     )

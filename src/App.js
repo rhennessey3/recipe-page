@@ -7,6 +7,7 @@ import RpSubMenu from './RpSubMenu';
 import RpOverview from './RpOverview'
 import RpIngredients from './RpIngredients'
 import RpDirections from './RpDirections'
+import RpNutririon from './RpNutrition'
 
 
 function App() {
@@ -15,14 +16,14 @@ function App() {
 
 
       <div className="recipe-page-wrapper">
-        <RpMenuHead />
-        <RpTitleHead />
-        <RpPhoto />
-        <RpSubMenu />
-        <RpOverview />
-        <RpIngredients />
-        <RpDirections />
-        
+          <RpMenuHead />
+          <RpTitleHead />
+          <RpPhoto />
+          <RpSubMenu />
+          <RpOverview />
+          <RpIngredients />
+          <RpDirections />
+          <RpNutririon />
       </div>
 
     </div>
