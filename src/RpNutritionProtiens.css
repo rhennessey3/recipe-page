@@ -1,0 +1,59 @@
+.Rp-Nuturition-Protiens-header {
+    display:flex;
+    align-items: center;
+}
+
+
+.Protiens {
+    display:flex;
+    align-items: center;
+    width:10%
+}
+
+.Protiens-amount h5 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight:520;
+font-size: 12px;
+letter-spacing: 0.05em;
+color: #767676;
+margin-bottom: 0px;
+}
+
+.Protiens-amount  {
+width:80%
+}
+
+.Protiens h4 { 
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 520;
+font-size: 14px;
+letter-spacing: 0.05em;
+margin-bottom: 0px;
+color: #1F2022;
+}
+
+.Protiens-percentage-of-total-for-day h6 {
+font-family: Gotham;
+font-style: normal;
+font-weight: 350;
+font-size: 8px;
+color: #767676;
+margin-bottom: 0px;
+}
+
+
+
+.percentage-bar-Protiens-cont {
+border: 0.5px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 2px; 
+}
+
+.percentage-bar-Protiens{
+    height:10px;
+    width:10%;
+    background-color: #F0DC2A;
+}
+

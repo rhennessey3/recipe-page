@@ -1,0 +1,60 @@
+
+.Rp-Nuturition-fats-header {
+    display:flex;
+    align-items: center;
+
+}
+
+.Fats {
+    display:flex;
+    align-items: center;
+    width:10%
+}
+
+.Fats-amount h5 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight:520;
+font-size: 12px;
+letter-spacing: 0.05em;
+color: #767676;
+margin-bottom: 0px;
+}
+
+.Fats-amount  {
+width:80%
+}
+
+.Fats h4 { 
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 520;
+font-size: 14px;
+letter-spacing: 0.05em;
+margin-bottom: 0px;
+color: #1F2022;
+}
+
+.Fats-percentage-of-total-for-day h6 {
+font-family: Gotham;
+font-style: normal;
+font-weight: 350;
+font-size: 8px;
+color: #767676;
+margin-bottom: 0px;
+}
+
+
+
+.percentage-bar-fats-cont {
+border: 0.5px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 2px; 
+}
+
+.percentage-bar-fats{
+    height:10px;
+    width:10%;
+    background-color: #F0DC2A;
+}
+
