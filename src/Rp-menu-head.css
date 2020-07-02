@@ -1,0 +1,25 @@
+.Rp-title-header-wrapper {
+display:flex;
+align-items: center;
+width: 100%;
+margin-top: 15px;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.Rp-back-button  {
+width: 33.33%;
+
+}
+
+.Rp-menu-button  {
+display:flex;
+padding-right:30px;
+justify-content: flex-end;
+width: 33.33%;
+
+}
+
+.Rp-header-spacer {
+width: 33.33%;
+}

@@ -1,0 +1,87 @@
+.Rp-sub-menu-nav-cont {
+position: absolute;
+top: 525px;
+width:100%;
+}
+
+.Rp-sub-menu-nav-cont-2 {
+display:flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+}
+
+.Rp-sub-menu-item-overview  {
+width: 20%;
+}
+
+.Rp-sub-menu-item-overview h4 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 420;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.08em;
+color: #7F7F7F;
+}
+
+.Rp-sub-menu-item-Ingredients  {
+width: 20%;
+}
+
+.Rp-sub-menu-item-Ingredients h4 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 420;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.08em;
+color: #7F7F7F;
+}
+
+.Rp-sub-menu-item-Directions {
+width: 20%;
+}
+
+.Rp-sub-menu-item-Directions h4 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 420;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.08em;
+color: #7F7F7F;
+}
+
+.Rp-sub-menu-item-Nutrition {
+width: 20%;
+}
+
+.Rp-sub-menu-item-Nutrition h4 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 420;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.08em;
+color: #7F7F7F;
+}
+
+.Rp-sub-menu-item-Community {
+width: 20%;
+}
+
+.Rp-sub-menu-item-Community h4 {
+font-family: Brandon Grotesque;
+font-style: normal;
+font-weight: 420;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.08em;
+color: #7F7F7F;
+}
